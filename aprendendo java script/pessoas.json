@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Willian",
+
+        "descricao": "Estudante ADS"
+    },
+        {
+        "nome": "Arthur",
+
+        "descricao": "amigo do Willian"
+    },
+
+        {
+        "nome": "Angela",
+
+        "descricao": "Mãe do Willian"
+    },
+
+        {
+        "nome": "Luciano",
+
+        "descricao": "Pai do Willian"
+    },
+
+        {
+        "nome": "Roberto",
+
+        "descricao": "Tio (e padrinho) do Willian"
+    },
+
+     {
+        "nome": "Fabiana",
+
+        "descricao": "Tia do Willian"
+    }
+
+]
